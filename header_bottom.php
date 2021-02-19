@@ -7,7 +7,7 @@
                     <ul class="menu">
                         
                         <li class="active">
-                            <a href="#">Home</a>
+                            <a href="home">Home</a>
                         </li>
                         
                         <li>
@@ -71,7 +71,7 @@
                         </li>
                 
                         <li>
-                            <a href="#">About Us</a>
+                            <a href="aboutus">About Us</a>
                         </li>
                         
                     </ul>
